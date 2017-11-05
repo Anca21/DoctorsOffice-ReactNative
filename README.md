@@ -31,3 +31,9 @@ so that's not so complicated. Last thing, a patient should be able to check it's
 the first consulation, and also his/her health progress. I have in mind some beautiful charts, but 
 I let you decide. So, buddy, maybe it's alot to ask, but that's my dream app. Thank you in advance,
 and hope you enjoy it too!
+
+
+For starting the app with Android Studio:
+
+>npm install
+>react-native run-android 
