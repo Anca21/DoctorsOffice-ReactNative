@@ -35,5 +35,6 @@ and hope you enjoy it too!
 
 For starting the app with Android Studio:
 
->npm install
->react-native run-android 
+npm install
+
+react-native run-android 
