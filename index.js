@@ -1,7 +1,3 @@
-//import { AppRegistry } from 'react-native';
-//import App from './App';
-//
-//AppRegistry.registerComponent('DoctorsOffice', () => App);
 import React, { Component } from 'react';
 import {
     AppRegistry,
@@ -145,7 +141,6 @@ class Details extends Component{
             <ScrollView>
             <View style={{
                 justifyContent: 'center',
-//                alignItems: 'center',
                 marginLeft: 30,
                 marginTop: 15,
             }}>
